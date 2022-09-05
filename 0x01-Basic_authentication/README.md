@@ -1,5 +1,5 @@
 # 0x01. Basic authentication
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:open_file_folder: Specializations -alx-backend-user-data 
 :bust_in_silhouette: by eliyas fiseha 
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark:
