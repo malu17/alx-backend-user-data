@@ -1,5 +1,5 @@
 # 0x00. Personal data
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:open_file_folder: Specializations - alx-backend-user-data
 :bust_in_silhouette: by elias fiseha,  Software Engineer   
 :copyright: **[alx chool](https://www.alx.com/)**  
 :bookmark: database access | log filter | password encryption | personal data | personally identifiable information | pii | python | user data protection
