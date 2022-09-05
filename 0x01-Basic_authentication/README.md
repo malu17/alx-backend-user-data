@@ -1,7 +1,7 @@
-# 0x06. Basic authentication
+# 0x01. Basic authentication
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:bust_in_silhouette: by eliyas fiseha 
+:copyright: **[alx School](https://www.alx.com/)**  
 :bookmark:
 
 ## Background Context
@@ -88,6 +88,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 12. Basic - Allow password with ":"
 * [x] 13. Require auth with stars
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+# Software engineer
+## :enter_belu: 
+* **elias fiseha** - [malu17](https://github.com/malu17)
+
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17).
